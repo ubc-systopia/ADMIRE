@@ -21,10 +21,11 @@ Understanding the human brain is an intriguing goal for neuroscience research.  
 ### Reference
 
 ```
-@inproceedings{admire++2023,
-title={ADMIRE++: Explainable Anomaly Detection in the Human Brain via Inductive Learning on Temporal Multiplex Networks},
+@inproceedings{
+behrouz2023admire,
+title={{ADMIRE}++: Explainable Anomaly Detection in the Human Brain via Inductive Learning on Temporal Multiplex Networks},
 author={Ali Behrouz and Margo Seltzer},
-booktitle={ICML 2023 Interpretable Machine Learning in Healthcare Workshop},
+booktitle={ICML 3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH) },
 year={2023},
 url={https://openreview.net/forum?id=t4H8acYudJ}
 }
