@@ -4,7 +4,7 @@
 
 #### Authors: [Ali Behrouz](https://abehrouz.github.io/), [Margo Seltzer](https://www.seltzer.com/margo/)
 #### [Link to the paper](https://openreview.net/forum?id=t4H8acYudJ) 
-#### [Spotlight talk]()
+#### [Spotlight talk](https://www.youtube.com/watch?v=qhGEwBJiTgM)
 
 
 
